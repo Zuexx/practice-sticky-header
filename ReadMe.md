@@ -7,9 +7,7 @@ The app is solely for learning purposes, demonstrating the concept of wrapping e
 ![Practice Sticky Header C4 Model - Component Diagram Only](docs/PracticeStickyHeader.vpd.png)
 
 ## Screenshots
-https://github.com/Zuexx/practice-sticky-header/assets/6257123/a31be88b-04bf-4643-a2dc-9ce73938711f
-
-
+https://github.com/Zuexx/practice-sticky-header/assets/6257123/8ffeb2dc-f563-4369-87dd-e12c481cb1df
 
 ## Features
 
